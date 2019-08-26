@@ -2,26 +2,11 @@
 title: About
 ---
 
-This is a demo site of the [HeroBlog](https://github.com/greglobinski/gatsby-starter-hero-blog), a [GatsbyJS](https://www.gatsbyjs.org/) starter.
+I love to use and learn about the latest technologies to create awesome and innovative software products. I am currently in my last semester of Computer Science at the University of Newcastle. The areas I am most familiar with are full-stack web development and Machine Learning (mainly Natural Language Processing). I am aways eager to learn new things. 
 
-### Features:
-
-* Easy editable content in **Markdown** files (posts, pages and parts)
-* **CSS** with `styled-jsx` and `PostCSS`
-* **SEO** (sitemap generation, robot.txt, meta and OpenGraph Tags)
-* **Social** sharing (Twitter, Facebook, Google, LinkedIn)
-* **Comments** (Facebook)
-* **Images** lazy loading and `webp` support (gatsby-image)
-* Post **categories** (category based post list)
-* Full text **searching** (Algolia)
-* **Contact** form (Netlify form handling)
-* **RSS** feed
-* 100% **PWA** (manifest.webmanifest, offline support, favicons)
-* Google **Analytics**
-* App **favicons** generator (node script)
-* Easy customizable base **styles** via `theme` object generated from `yaml` file (fonts, colors, sizes)
-* React **v.16** (gatsby-plugin-react-next)
-* **Components** lazy loading (social sharing)
-* **ESLint** (google config)
-* **Prettier** code styling
-* Webpack `BundleAnalyzerPlugin`
+* Backend experience in: .Net Core, Ruby on Rails, and Node.js
+* Frontend experience with: React and Angular 
+* Working knowledge of: Various AWS services including EC2 and Lambda, Docker
+* Experience with machine learning in python (mainly NLP tasks)
+* Exposure to project management tools such as JIRA and Slack
+* I have also dabbled in embedded systems programming in C
